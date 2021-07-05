@@ -2,8 +2,9 @@
 
 # Soluciones de Rosalind
 
->Rosalind es una plataforma de aprendizaje sobre la bioinformatica a traves de desafios
->Estas son mis soluciones
+**Rosalind** es una plataforma de aprendizaje sobre la bioinformatica a traves de desafios 
+
+Estas son mis soluciones
 
 **Sitio web:** [http://rosalind.info](http://rosalind.info)
 <img src="https://img.shields.io/badge/language-python-orange.svg" style="zoom:100%;" /> <img src="https://img.shields.io/badge/counts-149-brightgreen.svg" style="zoom:100%;" />
