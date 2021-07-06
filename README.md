@@ -4,9 +4,9 @@
 
 **Rosalind** es una plataforma de aprendizaje sobre la bioinformatica a traves de desafios 
 
-> Estas son mis soluciones
+> Estas son mis soluciones: Link en "code"
 > 
-> Las explicaciones estan en espanhol
+> Las explicaciones estan en espanhol: Link en "EXPLAIN"
 
 **Sitio web:** [http://rosalind.info](http://rosalind.info)
 
