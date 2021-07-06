@@ -1,6 +1,6 @@
 <img src="http://rosalind.info/static/img/logo.png?v=1560257990"  width=200 align="right">
 
-# Soluciones de Rosalind
+# Solutions Rosalind
 
 **Rosalind** es una plataforma de aprendizaje sobre la bioinformatica a traves de desafios 
 
