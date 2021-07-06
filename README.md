@@ -12,4 +12,4 @@ Estas son mis soluciones
 <img src="https://visitor-badge.laobi.icu/badge?page_id=zonghui0228.rosalind-solutions" alt="visitor badge"/>
 
 * FIB: Rabbits and Recurrence Relations [[code](https://github.com/gnvidal/Rosalind_Bioinformatics_solutions/blob/main/Solutions/Rabbits_and_Recurrence_Relations.py)]
-* IPRB: Mendel's First Law [[code](https://github.com/gnvidal/Rosalind_Bioinformatics_solutions/blob/main/Solutions/Mendel's_First_Law.py)]
+* IPRB: Mendel's First Law [[code](https://github.com/gnvidal/Rosalind_Bioinformatics_solutions/blob/main/Solutions/Mendel's_First_Law.py)][[EXPLAIN]https://github.com/gnvidal/Rosalind_Bioinformatics_solutions/blob/main/Solutions/Mendel's_First_Law.PNG]
